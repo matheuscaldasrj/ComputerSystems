@@ -1,0 +1,304 @@
+inicio de tudo
+
+
+============================================================================
+Executando processo: programa4 - Executado 1 vezes
+---Processo *****programa4****** terminado---
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 1/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   0 vezes
+Processo programa1   0 vezes
+Processo programa5   0 vezes
+Processo programa2   0 vezes
+Processo programa7   0 vezes
+Processo programa6   0 vezes
+
+
+============================================================================
+Executando processo: programa3 - Executado 1 vezes
+Processo *****programa3***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 1/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   1 vezes
+Processo programa1   0 vezes
+Processo programa5   0 vezes
+Processo programa2   0 vezes
+Processo programa7   0 vezes
+Processo programa6   0 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 1 vezes
+Processo *****programa1***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 1/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   1 vezes
+Processo programa1   1 vezes
+Processo programa5   0 vezes
+Processo programa2   0 vezes
+Processo programa7   0 vezes
+Processo programa6   0 vezes
+
+
+============================================================================
+Executando processo: programa5 - Executado 1 vezes
+ programa5 Foi interrompido por IO, mesmo nao tendo acabado todo
+ o tempo que tinha destinado a sua execucao
+
+Processo *****programa5***** não foi finalizado pois entrou em IO,
+logo vai pra fila de espera
+
+Processos em espera de IO:
+Processo programa5 
+
+Processo *****programa5***** acabou IO, vai pra fila de prontos
+Programas Terminados: 1/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   1 vezes
+Processo programa1   1 vezes
+Processo programa5   1 vezes
+Processo programa2   0 vezes
+Processo programa7   0 vezes
+Processo programa6   0 vezes
+
+
+============================================================================
+Executando processo: programa2 - Executado 1 vezes
+---Processo *****programa2****** terminado---
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 2/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   1 vezes
+Processo programa1   1 vezes
+Processo programa5   1 vezes
+Processo programa7   0 vezes
+Processo programa6   0 vezes
+
+
+============================================================================
+Executando processo: programa7 - Executado 1 vezes
+ programa7 Foi interrompido por IO, mesmo nao tendo acabado todo
+ o tempo que tinha destinado a sua execucao
+
+Processo *****programa7***** não foi finalizado pois entrou em IO,
+logo vai pra fila de espera
+
+Processos em espera de IO:
+Processo programa7 
+
+Processo *****programa7***** acabou IO, vai pra fila de prontos
+Programas Terminados: 2/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   1 vezes
+Processo programa1   1 vezes
+Processo programa5   1 vezes
+Processo programa7   1 vezes
+Processo programa6   0 vezes
+
+
+============================================================================
+Executando processo: programa6 - Executado 1 vezes
+---Processo *****programa6****** terminado---
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 3/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   1 vezes
+Processo programa1   1 vezes
+Processo programa5   1 vezes
+Processo programa7   1 vezes
+
+
+============================================================================
+Executando processo: programa3 - Executado 2 vezes
+Processo *****programa3***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 3/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   2 vezes
+Processo programa1   1 vezes
+Processo programa5   1 vezes
+Processo programa7   1 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 2 vezes
+Processo *****programa1***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 3/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   2 vezes
+Processo programa1   2 vezes
+Processo programa5   1 vezes
+Processo programa7   1 vezes
+
+
+============================================================================
+Executando processo: programa5 - Executado 2 vezes
+---Processo *****programa5****** terminado---
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 4/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   2 vezes
+Processo programa1   2 vezes
+Processo programa7   1 vezes
+
+
+============================================================================
+Executando processo: programa7 - Executado 2 vezes
+---Processo *****programa7****** terminado---
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 5/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   2 vezes
+Processo programa1   2 vezes
+
+
+============================================================================
+Executando processo: programa3 - Executado 3 vezes
+Processo *****programa3***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 5/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   3 vezes
+Processo programa1   2 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 3 vezes
+Processo *****programa1***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 5/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa3   3 vezes
+Processo programa1   3 vezes
+
+
+============================================================================
+Executando processo: programa3 - Executado 4 vezes
+---Processo *****programa3****** terminado---
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 6/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa1   3 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 4 vezes
+Processo *****programa1***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 6/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa1   4 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 5 vezes
+Processo *****programa1***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 6/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa1   5 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 6 vezes
+Processo *****programa1***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 6/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa1   6 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 7 vezes
+Processo *****programa1***** não foi finalizado. Está na fila mais uma vez.
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 6/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Processo programa1   7 vezes
+
+
+============================================================================
+Executando processo: programa1 - Executado 8 vezes
+---Processo *****programa1****** terminado---
+
+Processos em espera de IO:
+Nenhum processo em espera de IO
+Programas Terminados: 7/7
+============================================================================
+Processos Prontos na fila para serem executados: 
+      Nome           Execucoes
+Todos os programas já foram executados
+
+Fim de tudo
